@@ -1,6 +1,6 @@
 # Memory Manager in Rust
 
-<img width="471" alt="image" src="https://github.com/zakiego/memory-manager-rust/assets/78015359/369eeec1-5b2d-434f-a35c-c56920a8bb6a">
+<img width="500" alt="image" src="https://github.com/zakiego/memory-manager-rust/assets/78015359/99e14221-617a-442e-85c3-93753b47774d">
 
 This project is a simple implementation of a memory manager in Rust. It provides
 basic functionalities for allocating and deallocating memory blocks,
